@@ -26,11 +26,7 @@ This repository contains Python practical exercises and solutions for various to
              1 2 3 4               
              1 2 3 4 5
 
-          2) @ @ @ @ @
-             @ @ @ @
-             @ @ @
-             @ @
-             @
+          2) Reversed pattern (1) with * 
          
 
 ## Introduction
